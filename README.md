@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-n-c-o
 - 👀 I’m interested in C#, C++, And Python
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C++
 - 💞️ I Can Help If You Need Help With C#
 - 📫 Discord - i n c o#8174
 
